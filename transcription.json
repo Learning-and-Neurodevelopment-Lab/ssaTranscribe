@@ -1,0 +1,356 @@
+[
+  {
+    "start": 0.031,
+    "end": 1.012,
+    "text": " Well, hi, honey.",
+    "words": [
+      {
+        "word": "Well,",
+        "start": 0.031,
+        "end": 0.532,
+        "score": 0.181
+      },
+      {
+        "word": "hi,",
+        "start": 0.552,
+        "end": 0.712,
+        "score": 0.699
+      },
+      {
+        "word": "honey.",
+        "start": 0.812,
+        "end": 1.012,
+        "score": 0.318
+      }
+    ],
+    "speaker": "SPEAKER 1"
+  },
+  {
+    "start": 1.032,
+    "end": 7.541,
+    "text": "How come you're so late? Well, because we had a meeting and class, went a little overtime. How's your cold?",
+    "words": [
+      {
+        "word": "How",
+        "start": 1.032,
+        "end": 1.173,
+        "score": 0.779
+      },
+      {
+        "word": "come",
+        "start": 1.253,
+        "end": 1.353,
+        "score": 0.409
+      },
+      {
+        "word": "you're",
+        "start": 1.413,
+        "end": 1.533,
+        "score": 0.229
+      },
+      {
+        "word": "so",
+        "start": 1.613,
+        "end": 1.733,
+        "score": 0.48
+      },
+      {
+        "word": "late?",
+        "start": 1.773,
+        "end": 2.474,
+        "score": 0.711
+      }
+    ],
+    "speaker": "SPEAKER 2"
+  },
+  {
+    "start": 8.162,
+    "end": 16.293,
+    "text": "Oh, it's not, I don't hurt, but you know, I'm so hoarse. Yeah, it still sounds a little bit like, you know, stuffy or something like that. Yeah. Does your throat hurt at all?",
+    "words": [
+      {
+        "word": "Oh,",
+        "start": 8.162,
+        "end": 8.282,
+        "score": 0.899
+      },
+      {
+        "word": "it's",
+        "start": 8.503,
+        "end": 8.663,
+        "score": 0.892
+      },
+      {
+        "word": "not,",
+        "start": 8.703,
+        "end": 9.043,
+        "score": 0.85
+      },
+      {
+        "word": "I",
+        "start": 9.244,
+        "end": 9.304,
+        "score": 0.944
+      },
+      {
+        "word": "don't",
+        "start": 9.344,
+        "end": 9.484,
+        "score": 0.743
+      },
+      {
+        "word": "hurt,",
+        "start": 9.524,
+        "end": 9.864,
+        "score": 0.838
+      },
+      {
+        "word": "but",
+        "start": 9.945,
+        "end": 10.065,
+        "score": 0.808
+      },
+      {
+        "word": "you",
+        "start": 10.085,
+        "end": 10.185,
+        "score": 0.952
+      },
+      {
+        "word": "know,",
+        "start": 10.225,
+        "end": 10.365,
+        "score": 0.895
+      },
+      {
+        "word": "I'm",
+        "start": 10.425,
+        "end": 10.525,
+        "score": 0.505
+      },
+      {
+        "word": "so",
+        "start": 10.545,
+        "end": 10.746,
+        "score": 0.686
+      },
+      {
+        "word": "hoarse.",
+        "start": 10.806,
+        "end": 11.066,
+        "score": 0.265
+      }
+    ],
+    "speaker": "SPEAKER 3"
+  },
+  {
+    "start": 16.313,
+    "end": 17.735,
+    "text": "No, but I'm just very hoarse.",
+    "words": [
+      {
+        "word": "No,",
+        "start": 16.313,
+        "end": 16.513,
+        "score": 0.966
+      },
+      {
+        "word": "but",
+        "start": 16.574,
+        "end": 16.694,
+        "score": 0.97
+      },
+      {
+        "word": "I'm",
+        "start": 16.734,
+        "end": 16.854,
+        "score": 0.917
+      },
+      {
+        "word": "just",
+        "start": 16.874,
+        "end": 17.074,
+        "score": 0.84
+      },
+      {
+        "word": "very",
+        "start": 17.194,
+        "end": 17.415,
+        "score": 0.399
+      },
+      {
+        "word": "hoarse.",
+        "start": 17.535,
+        "end": 17.735,
+        "score": 0.434
+      }
+    ],
+    "speaker": "SPEAKER 4"
+  },
+  {
+    "start": 19.277,
+    "end": 22.842,
+    "text": "Yeah. What's that? Does that sound like a trumpet to you?",
+    "words": [
+      {
+        "word": "Yeah.",
+        "start": 19.277,
+        "end": 19.377,
+        "score": 0.0
+      }
+    ],
+    "speaker": "SPEAKER 1"
+  },
+  {
+    "start": 22.862,
+    "end": 25.406,
+    "text": "Sounds like a little hoarse, wouldn't it?",
+    "words": [
+      {
+        "word": "Sounds",
+        "start": 22.862,
+        "end": 22.982,
+        "score": 0.165
+      },
+      {
+        "word": "like",
+        "start": 23.002,
+        "end": 23.123,
+        "score": 0.896
+      },
+      {
+        "word": "a",
+        "start": 23.163,
+        "end": 23.183,
+        "score": 0.974
+      },
+      {
+        "word": "little",
+        "start": 23.223,
+        "end": 23.403,
+        "score": 0.812
+      },
+      {
+        "word": "hoarse,",
+        "start": 23.463,
+        "end": 25.125,
+        "score": 0.826
+      },
+      {
+        "word": "wouldn't",
+        "start": 25.145,
+        "end": 25.326,
+        "score": 0.096
+      },
+      {
+        "word": "it?",
+        "start": 25.346,
+        "end": 25.406,
+        "score": 0.452
+      }
+    ],
+    "speaker": "SPEAKER 3"
+  },
+  {
+    "start": 25.426,
+    "end": 26.427,
+    "text": "Sounds like I feel it.",
+    "words": [
+      {
+        "word": "Sounds",
+        "start": 25.426,
+        "end": 25.546,
+        "score": 0.207
+      },
+      {
+        "word": "like",
+        "start": 25.566,
+        "end": 25.706,
+        "score": 0.885
+      },
+      {
+        "word": "I",
+        "start": 25.786,
+        "end": 25.926,
+        "score": 0.654
+      },
+      {
+        "word": "feel",
+        "start": 26.047,
+        "end": 26.227,
+        "score": 0.482
+      },
+      {
+        "word": "it.",
+        "start": 26.367,
+        "end": 26.427,
+        "score": 0.333
+      }
+    ],
+    "speaker": "SPEAKER 4"
+  },
+  {
+    "start": 26.727,
+    "end": 29.872,
+    "text": " Oh, you know what it is? It's coming from Oscar's trash can.",
+    "words": [
+      {
+        "word": "Oh,",
+        "start": 26.727,
+        "end": 27.052,
+        "score": 0.843
+      },
+      {
+        "word": "you",
+        "start": 27.133,
+        "end": 27.234,
+        "score": 0.964
+      },
+      {
+        "word": "know",
+        "start": 27.255,
+        "end": 27.376,
+        "score": 0.843
+      },
+      {
+        "word": "what",
+        "start": 27.417,
+        "end": 27.539,
+        "score": 0.347
+      },
+      {
+        "word": "it",
+        "start": 27.6,
+        "end": 27.701,
+        "score": 0.344
+      },
+      {
+        "word": "is?",
+        "start": 27.721,
+        "end": 27.924,
+        "score": 0.852
+      }
+    ],
+    "speaker": "SPEAKER 3"
+  },
+  {
+    "start": 29.994,
+    "end": 31.759,
+    "text": "Oh, no. What's he doing there?",
+    "words": [
+      {
+        "word": "Oh,",
+        "start": 29.994,
+        "end": 30.177,
+        "score": 0.833
+      },
+      {
+        "word": "no.",
+        "start": 30.319,
+        "end": 30.481,
+        "score": 0.946
+      }
+    ],
+    "speaker": "SPEAKER 1"
+  }
+]

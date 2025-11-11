@@ -10,8 +10,8 @@ from scenedetect.detectors import ContentDetector
 import spacy
 
 # === Set Paths ===
-base_dir = "/Users/landlab/Desktop/ssaTranscription"
-output_dir = os.path.join(base_dir, "25-07-09_12.14.00")
+base_dir = "/Volumes/LANDLAB/projects/Project_Sesame/ssa_sesame-street-archive/scripts/ssa_scaling/3_audio-transcriber/versions"
+output_dir = os.path.join(base_dir, "versions", "25-07-09_12.14.00")
 os.makedirs(output_dir, exist_ok=True)
 audio_path = os.path.join(output_dir, "audio.wav")
 video_path = os.path.join(output_dir, "scenechange.mp4")

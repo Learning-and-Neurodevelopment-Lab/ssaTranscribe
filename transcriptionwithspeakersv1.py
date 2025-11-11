@@ -9,8 +9,8 @@ from scenedetect.detectors import ContentDetector
 import whisperx
 
 # === Set Paths ===
-base_dir = "/Users/landlab/Desktop/ssaTranscription"
-output_dir = os.path.join(base_dir, "25-07-09_10.16.00")
+base_dir = "/Volumes/LANDLAB/projects/Project_Sesame/ssa_sesame-street-archive/scripts/ssa_scaling/3_audio-transcriber"
+output_dir = os.path.join(base_dir, "versions", "25-07-09_10.16.00")
 os.makedirs(output_dir, exist_ok=True)
 audio_path = os.path.join(output_dir, "audio.wav")
 video_path = os.path.join(output_dir, "EP70-cpb-aacip-c0e028b4a94-New.mp4")  # Optional for scene detection

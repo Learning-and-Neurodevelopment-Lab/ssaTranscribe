@@ -1,0 +1,22 @@
+name: whisperx_cpu
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - ffmpeg
+  - tqdm
+  - librosa
+  - pip:
+      - torch==2.8.0
+      - git+https://github.com/m-bain/whisperX.git
+      - transformers
+      - sentencepiece
+      - torchcodec
+#To activate this environment, use:
+# conda activate whisperx_cpu
+#To deactivate this environment, use:
+# conda deactivate

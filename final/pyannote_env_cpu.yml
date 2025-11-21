@@ -1,0 +1,21 @@
+name: pyannote_cpu
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - pip:
+      - torch==2.3.1
+      - pyannote.audio==3.4.0
+      - transformers
+      - librosa
+      - tqdm
+#To activate this environment, use:
+# conda activate pyannote_cpu
+#To deactivate this environment, use:
+# conda deactivate
